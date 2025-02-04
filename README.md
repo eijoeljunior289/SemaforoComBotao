@@ -40,4 +40,4 @@ O código está disponível no arquivo `main.c`.
 - Configure os GPIOs e componentes conforme descrito acima.
 
 ## Autor
-[Nome do Aluno]
+Joel Júnior Nunes Araujo
